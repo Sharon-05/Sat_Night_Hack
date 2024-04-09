@@ -15,7 +15,11 @@ Takes input from user and does the required calculation to display the output
 
 ## How it Works ?
 1. Enter 2 numbers
-2. select an operation from list 
+2. select an operation from list
+
+##Video on the project
+https://github.com/Sharon-05/Sat_Night_Hack/assets/87897771/e57a849a-f157-4307-b0b6-e0af2ff67d17
+
 ## Libraries used
 Django
 
